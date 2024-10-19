@@ -203,7 +203,7 @@ nav ul img{
 }
 
 .service-box {
-  background-color: #017639;
+  background-color: #ff0202;
   padding: 30px;
   border-radius: 15px;
   box-shadow: 0 0 15px 10px rgba(0, 240, 255, 0.1);
@@ -372,8 +372,8 @@ p {
 
 
 .contact {
-  padding: 100px 80px;
-  background-color: #000000;
+  padding: 100px 100px;
+  background-color: #090303;
   color: #ffffff;
 }
 
