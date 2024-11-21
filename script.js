@@ -34,8 +34,6 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-
-// Animate progress bars
 const progressBars = document.querySelectorAll('.progress-done');
 
 progressBars.forEach(bar => {
@@ -45,7 +43,6 @@ progressBars.forEach(bar => {
     }, 500);
 });
 
-// Animate circular skills
 const circles = document.querySelectorAll('.circle');
 
 circles.forEach(circle => {
